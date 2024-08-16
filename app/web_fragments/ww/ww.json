@@ -1,0 +1,15 @@
+{
+  "id" : "ww",
+  "name" : "ww",
+  "type" : "fragment",
+  "modelVersion" : "2.4",
+  "lastUpdate" : 1723820848013,
+  "rows" : [
+    [ ]
+  ],
+  "variables" : { },
+  "assets" : [ ],
+  "inactiveAssets" : [ ],
+  "webResources" : [ ],
+  "hasValidationError" : false
+}
