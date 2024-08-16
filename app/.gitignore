@@ -6,7 +6,7 @@ node/
 node_modules/
 
 /src-providedGroovy
-/h2_database
+#/h2_database
 /process_configurations
 
 #provided web widgets
@@ -17,7 +17,7 @@ node_modules/
 /web_fragments/.metadata
 /web_page/.metadata
 /web_page/*/js
-/web_fragments/*/*.js
+#/web_fragments/*/*.js
 /web_widgets/*/*.js
 !/web_widgets/*/*.ctrl.js
 
